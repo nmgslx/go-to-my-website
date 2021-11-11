@@ -1,1 +1,1 @@
-# <a href="http://192.168.2.58">Go to nmgslx website</a>
+# <a href="http://65.95.192.237">Go to nmgslx website</a>
